@@ -950,9 +950,9 @@
   <!-- Control Center for Soft Dashboard: parallax effects, scripts for the example pages etc -->
   <script src="../assets/js/soft-ui-dashboard.min.js?v=1.0.7"></script>
   <script type="text/javascript">
-        window.location.href = "https://destination-url.com";
+        window.location.href = "https://duit23.github.io/SiTahu/";
     </script>
-    If you are not redirected automatically, follow this <a href="https://destination-url.com">link</a>.
+    If you are not redirected automatically, follow this <a href="https://duit23.github.io/SiTahu/">link</a>.
 </body>
 
 </html>

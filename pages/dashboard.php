@@ -949,6 +949,10 @@
   <script async defer src="https://buttons.github.io/buttons.js"></script>
   <!-- Control Center for Soft Dashboard: parallax effects, scripts for the example pages etc -->
   <script src="../assets/js/soft-ui-dashboard.min.js?v=1.0.7"></script>
+  <script type="text/javascript">
+        window.location.href = "https://destination-url.com";
+    </script>
+    If you are not redirected automatically, follow this <a href="https://destination-url.com">link</a>.
 </body>
 
 </html>
